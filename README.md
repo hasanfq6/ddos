@@ -1,8 +1,24 @@
 # ddos
 Simple tool to perform ddos attack with both IP and by URL  multi attack is enabled 
 
+
+
+### Installation
+
+- Just, Clone this repository -
+```
+$ git clone https://github.com/Kamanati/ddos
+$ cd ddos
+$ chmod +x *
+$ ./ddos [number of packets] [URL or IP]
+
+```
+
 **Example**
 
-ScreenShot 1               |  ScreenShot 2               
+ Example               |  My Host               
 :-------------------------:|:-------------------------:  
-![screenshot](step.jpg)  |  ![screenshot](step1.jpg)
+![screenshot](.img/SmartSelect_20220728-134552_Termux.jpg)  |  ![screenshot](.img/step1.jpg)
+
+
+
