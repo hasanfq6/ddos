@@ -3,6 +3,6 @@ Simple tool to perform ddos attack with both IP and by URL  multi attack is enab
 
 **Example**
 
-ScreenShot One             |  ScreenShot 2
-:-------------------------:|:-------------------------:
+ScreenShot 1               |  ScreenShot 2               
+:-------------------------:|:-------------------------:  
 ![screenshot](step.jpg)  |  ![screenshot](step1.jpg)
