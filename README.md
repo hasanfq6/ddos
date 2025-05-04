@@ -22,7 +22,7 @@ Simple tool to perform ddos attack with both IP and by URL  multi attack is enab
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/Kamanati/ddos
+$ git clone https://github.com/hasanfq6/ddos
 $ cd ddos
 $ chmod +x *
 $ ./ddos [number of packets] [URL or IP]
